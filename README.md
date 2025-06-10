@@ -1,1 +1,1 @@
-# projectdigital1
+Traffic-Light-Controller-using-Verilog
